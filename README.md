@@ -2,7 +2,7 @@
 
 Submitted by: **Mariamawit Tadesse**
 
-**Name of your app** is an app that allows users post a photo of what they’re currently doing upon receiving a random notification during the day
+**BeReal** is an app that allows users post a photo of what they’re currently doing upon receiving a random notification during the day
 
 Time spent: **10** hours spent in total
 
